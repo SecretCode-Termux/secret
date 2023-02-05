@@ -16,7 +16,7 @@ Soo fokus disini aee ☝️
 MOBILE VALIDATE
 ```
 🔥 Logo
-![deskripsi gambar](https://i.ibb.co/8x16bwt/Screenshot-2022-08-27-06-13-01-918-com-termux.png)
+![deskripsi gambar](g]https://i.ibb.co/DYdCtCL/IMG-20230205-093231.jpg)
 😚 Gambar hanya pemanis selebihnya cobain sendiri
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
