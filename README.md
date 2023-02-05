@@ -16,7 +16,7 @@ Soo fokus disini aee ☝️
 MOBILE VALIDATE
 ```
 🔥 Logo
-![deskripsi gambar](g]https://i.ibb.co/DYdCtCL/IMG-20230205-093231.jpg)
+![deskripsi gambar](g]https://ibb.co/vh9PHPD)
 😚 Gambar hanya pemanis selebihnya cobain sendiri
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
