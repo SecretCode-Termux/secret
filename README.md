@@ -25,12 +25,13 @@ Download apk Termuxnya disini biar ngga eror🌟
 $ cd
 $ pkg update && pkg upgrade
 $ pkg install python git
+$ pkg install rich
 $ pip install urllib3
 $ pip install --upgrade pip
 $ git clone https://github.com/SecretCode-Termux/secret
 $ ls ( L kecil )
-$ cd cracking8
-$ python secret
+$ cd secret
+$ python secret.py
 ```
 ## Cara Update
 ```php
