@@ -11,7 +11,6 @@ Hasil tergantung target
 Scrip ini akan update setiap saat 
 Soo fokus disini aee ☝️
 ```
-# PAKE DOANG NGGA FOLLOW, KOMTOL LO🗿
 # INFO METODE
 ```bash
 MOBILE VALIDATE
@@ -28,7 +27,7 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install urllib3
 $ pip install --upgrade pip
-$ git clone https://github.com/Al-Vino/cracking8
+$ git clone https://github.com/SecretCode-Termux/secret
 $ ls ( L kecil )
 $ cd cracking8
 $ python secret
